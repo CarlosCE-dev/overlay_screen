@@ -33,7 +33,7 @@ class OverlayScreen {
           CircularProgressIndicator(),
           SizedBox(height: 20.0),
           Text(
-            "loading...",
+            "Cargando...",
             style: TextStyle(color: Colors.white),
           ),
         ],
